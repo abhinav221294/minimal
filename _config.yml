@@ -1,6 +1,20 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Abhinav Anand </p>
+logo: /assets/img/Fraud_detection1.jpg
+
+description:
+  <p align="center">
+  <a href="Resume1.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/abhinav-anand221294/">LinkedIn</a> |
+  <a href="https://github.com/abhinav221294">GitHub</a>
+  
+  <br>   
+  I am working on Data Analytics related problems.
+  Also worked as production support as SME.
+  Worked with Cognizant at Production support team.
+  Working in Melife in insurance domain for 7 months.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
